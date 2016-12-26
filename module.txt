@@ -1,0 +1,9 @@
+{
+    "id" : "CampStructures",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "smsunarto",
+    "displayName" : "Camp Structures",
+    "description" : "A module containing Campsite Structures",
+    "dependencies" : [],
+    "serverSideOnly" : false
+}
