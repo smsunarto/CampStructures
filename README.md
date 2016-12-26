@@ -10,4 +10,4 @@ Structures
  - Cabin
  A medium sized cabin, can be used to store items or a multi-function room for the camp.
 
-![Preview](http://puu.sh/t1jP9/9f3e6ec4f3.jpg)
+![Preview](http://puu.sh/t1jRf/edd950d935.jpg)
